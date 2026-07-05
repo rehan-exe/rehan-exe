@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I am a student from India with a very strong passion for C.S, software engineering, an the sciences. I'm currently building my programming sKills, creating projects, and documenting my journey towards becoming a software engineer
+I am a student from India with a very strong passion for C.S, software engineering, an the sciences. I'm currently building my programming skills, creating projects, and documenting my journey towards becoming a software engineer
 ---
 ## Currently Learning
 - Python
